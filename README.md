@@ -19,7 +19,7 @@ Correlation of country codes and country name exported as CSV file from https://
 
 
 
-**Analysis code:** https://mardedexo.github.io/Causes-of-Death-Worlwide/RawData/Death_causes_worldwide_top10_SQLanalysis.sql
+**Analysis code:** https://mardedexo.github.io/Causes-of-Death-Worlwide/Death_causes_worldwide_top10_SQLanalysis.sql
 
-
+**Data cleaned:** https://mardedexo.github.io/Causes-of-Death-Worlwide/Top10ByCountry_all_fullNameCleanedxlsx 
 
