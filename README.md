@@ -22,4 +22,4 @@ Correlation of country codes and country name exported as CSV file from https://
 
 
 
-**Check out my interactive dashboard in Tableau:** https://public.tableau.com/shared/C92W5XBNG?:display_count=n&:origin=viz_share_link
+**Check out my interactive dashboard in Tableau:** https://public.tableau.com/app/profile/marta.garcia.camba/viz/Worldwide_Causes_of_Death/Dashboard1
